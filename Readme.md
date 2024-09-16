@@ -30,11 +30,17 @@ This website is built using the following technologies:
 ## <a name="features">🔋 Features</a>
 
 - **Creative Hamburger Menu Designs**: A collection of sleek, modern, and interactive menus for inspiration.
+
 - **Stunning Burger-Themed Imagery**: High-quality images of gourmet burgers that complement the menu designs.
+
 - **Smooth Animations**: Beautifully crafted animations for seamless user interaction.
+
 - **Responsive Layouts**: Menus designed to work perfectly across all devices and screen sizes.
+
 - **Interactive Demos**: Try out each menu design live to see how it feels in real-time.
+
 - **Downloadable Assets**: Access code snippets and design assets to use in your own projects.
+
 - **Customization Ideas**: Tips and ideas on how to tailor each design to fit your unique style.
 
 ## <a name="contribute"> 🚀 Contributing</a>
