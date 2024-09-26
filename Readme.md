@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://arpit73881.github.io/Foodie-Hamburger/" target="_blank"><img src="https://i.ibb.co/4dt2ywv/portfolio-6.png" alt="Main-Cover" border="0"></a>
+   <a href="https://arpit73881.github.io/Foodie-Hamburger/" target="_blank"><img src="https://github.com/user-attachments/assets/6c7cac84-8e45-4487-b7f9-90aa49e8f1e4" alt="Main-Cover" border="0"></a>
   <br />
 
 # [Foodie Hamburger Menu](https://arpit73881.github.io/Foodie-Hamburger/)
